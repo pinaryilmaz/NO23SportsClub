@@ -15682,7 +15682,6 @@ button:focus-visible {
   }
 }
 
-/* Final mobile corrections: member header and class schedule */
 @media (max-width: 991.98px) {
   .classes-page .classes-hero-grid,
   .classes-page .classes-section-heading,
